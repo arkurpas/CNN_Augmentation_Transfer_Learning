@@ -1,2 +1,3 @@
-# CNN_Augmentation_Transfer_Learning
+# WORK IN PORGRESS
+CNN_Augmentation_Transfer_Learning
 medical_images
